@@ -111,6 +111,13 @@ header h1 {
     margin-bottom: 10px;
 }
 
+.red-social-img {
+    width: 24px;
+    height: 24px;
+    vertical-align: middle;
+    margin-right: 8px;
+}
+
 #contacto {
     background-color: #B0228C;
     padding: 20px;
