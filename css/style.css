@@ -24,7 +24,21 @@ header h1{
     font-size: 2.5em;
 }
 
+.container  {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+    max-width: 1200px;
+    margin: 20px auto;
+}
 
+#sobre-mi{
+    background-color: #F9C846;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
 #sobre-mi img{
     max-width: 200px;
 }
