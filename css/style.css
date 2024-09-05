@@ -40,7 +40,8 @@ header h1{
     flex-direction: column;
 }
 #sobre-mi img{
-    max-width: 200px;
+    max-width: 300px;
+    border-radius: 50%;
 }
 
 .hobbies-img img{
