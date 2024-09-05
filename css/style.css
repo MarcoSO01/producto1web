@@ -7,13 +7,13 @@
 body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     line-height: 1.6;
-    background-color: #F96E46;
+    background-color: #361134;
     color: #FFFFFF;
     padding: 20px;
 }
 
 header{
-    background-color:  #545863;
+    background-color:  #B0228C;
     color: #FFFFFF;
     padding: 20px 0;
     text-align: center;
@@ -33,7 +33,7 @@ header h1{
 }
 
 #sobre-mi{
-    background-color: #F9C846;
+    background-color: #EA3788;
     padding: 20px;
     display: flex;
     align-items: center;
@@ -55,7 +55,7 @@ header h1{
 
 
 #Hobbies{
-    background-color: #00E8FC;
+    background-color: #E56B70;
     padding: 20px;
 }
 
@@ -83,7 +83,7 @@ header h1{
 }
 
 #contacto {
-    background-color: #545863;
+    background-color: #B0228C;
     padding: 20px;
     text-align: center;
 }
@@ -92,7 +92,7 @@ footer{
     margin-top: 20px;
     text-align: center;
     padding: 20px;
-    background-color: #00E8FC;
+    background-color: #EA3788;
 }
 
 /*@media (min-width: 768px){
