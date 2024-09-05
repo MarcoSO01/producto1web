@@ -44,6 +44,11 @@ header h1{
     border-radius: 50%;
 }
 
+#sobre-mi p{
+    max-width: 800px;
+    text-align: center;
+}
+
 .hobbies-img img{
     width: 150px;
     height: 150px;
