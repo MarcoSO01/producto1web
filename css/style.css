@@ -75,3 +75,14 @@ header h1{
 .hobbies-img{
     text-align: center;
 }
+
+.hobbies-img p{
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+#contacto {
+    background-color: #545863;
+    padding: 20px;
+    text-align: center;
+}
