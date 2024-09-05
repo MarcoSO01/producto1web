@@ -49,6 +49,12 @@ header h1{
     text-align: center;
 }
 
+
+#Hobbies{
+    background-color: #00E8FC;
+    padding: 20px;
+}
+
 .hobbies-img img{
     width: 150px;
     height: 150px;
@@ -59,4 +65,13 @@ header h1{
 #Hobbies{
     background-color: #00E8FC;
     padding: 20px;
+}
+
+.hobbies-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+}
+
+.hobbies-img{
+    text-align: center;
 }
