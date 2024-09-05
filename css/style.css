@@ -12,7 +12,13 @@ body{
     padding: 20px;
 }
 
-#sobremi img{
+#sobre-mi img{
     max-width: 200px;
 }
 
+.hobbies-img img{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 10px img;
+}
