@@ -22,3 +22,8 @@ body{
     object-fit: cover;
     border-radius: 10px img;
 }
+
+#Hobbies{
+    background-color: #FFA69E;
+    padding: 20px;
+}
