@@ -75,11 +75,17 @@ header h1{
     height: 50%;
     max-width: 200px;
     object-fit: cover;
+    border-radius: 10px;
 }
 
 .hobbies-img p{
     margin-top: 10px;
     font-weight: bold;
+}
+
+#redes{
+    background-color: #EA3788;
+    padding: 20px;
 }
 
 #contacto {
