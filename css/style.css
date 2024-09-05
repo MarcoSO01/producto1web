@@ -3,3 +3,16 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #84DCC6;
+    color: #FFFFFF;
+    padding: 20px;
+}
+
+#sobremi img{
+    max-width: 200px;
+}
+
